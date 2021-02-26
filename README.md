@@ -11,3 +11,6 @@ found out the boit/screw need to be used in the body of the ro-bull as well as t
 
 ## update 
 making of hinge is on the way and as well as the screws needed for the bodys walls and the screws and holes for the aurdino.
+
+## update 
+shared onshape doc for assiment to dierloff as well as made ajuestment to the body. 
