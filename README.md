@@ -14,3 +14,7 @@ making of hinge is on the way and as well as the screws needed for the bodys wal
 
 ## update 
 shared onshape doc for assiment to dierloff as well as made ajuestment to the body. 
+
+## hinge 
+![Screenshot 2021-03-05 at 3.34.26 PM.png](Screenshot 2021-03-05 at 3.34.26 PM.png)
+hinge is on the way of being done soon and needs little inprovements 
