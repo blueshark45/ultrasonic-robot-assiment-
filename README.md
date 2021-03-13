@@ -18,3 +18,6 @@ shared onshape doc for assiment to dierloff as well as made ajuestment to the bo
 ## hinge 
 ![Screenshot 2021-03-05 at 3.34.26 PM.png](Screenshot 2021-03-05 at 3.34.26 PM.png)
 hinge is on the way of being done soon and needs little inprovements 
+
+## hinge update 
+need some help on some part of the hinge can be fixed with minor fixes and will be done soon the body and side have been built all that is needed now is just to put it together and see if both part are conguent and have the right measurement set on both as well as the buttons to be put in the hinge. 
