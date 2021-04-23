@@ -29,3 +29,7 @@ need some help on some part of the hinge can be fixed with minor fixes and will 
 ## note to ne 
 i want to work on the T lock and the dimenctions of what i need to put the 40 bolts in 
 when i come back from break the thing i want to work on is the T lock and setting up the aurdnio ad putting it on the body and have the right dimetions 
+
+
+## update on robull 
+the box/body is now finished now to move on to setting up and placing both whells and motor after completion of whells next is aurdino placement or maybe they will be done at the same time after that is the rest of the robull than testing will be done. 
