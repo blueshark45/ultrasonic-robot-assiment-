@@ -31,5 +31,12 @@ i want to work on the T lock and the dimenctions of what i need to put the 40 bo
 when i come back from break the thing i want to work on is the T lock and setting up the aurdnio ad putting it on the body and have the right dimetions 
 
 
-## update on robull 
-the box/body is now finished now to move on to setting up and placing both whells and motor after completion of whells next is aurdino placement or maybe they will be done at the same time after that is the rest of the robull than testing will be done. 
+## update on the new redo of robull 
+the robull had had a overhall two times of the shape and plan taking out the hinge and making the robull a larger size for part to fit in and more set up but as well as the making of the part being implemented onto the robull body.
+
+### image of new body of robull 
+![![Screenshot 2021-06-02 2 37 56 PM](https://user-images.githubusercontent.com/71407488/120536050-b1876400-c3b1-11eb-85a8-81eefbc367d3.png)
+
+## mistakes and errors 
+i have made errors on the underestamating the size of the parts and the body its self which has cause me and my teamate to falter in our plans and redo the body aspect twice as well as the lack of time we had either spent on the project and as well as the lack of us getting out plans moving along at points slowing down at some points of doing work but we had also now when pressure was on us we had overcome some of these problems but some still linger like the slowing down of process and the making of the box and printing the body out. 
+                
