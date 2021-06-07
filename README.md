@@ -26,7 +26,7 @@ need some help on some part of the hinge can be fixed with minor fixes and will 
 1.accopclished to fix minor issues with the robot body as well as the T lock being fixed to fit 40 40 boits 
 2.time as well as focus on the project and drive 
 
-## note to ne 
+## note to me 
 i want to work on the T lock and the dimenctions of what i need to put the 40 bolts in 
 when i come back from break the thing i want to work on is the T lock and setting up the aurdnio ad putting it on the body and have the right dimetions 
 
